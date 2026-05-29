@@ -15,6 +15,7 @@
       "expo-router"
     ],
     "experiments": {
+      "baseUrl": "/cryptodeen",
       "typedRoutes": true
     }
   }
